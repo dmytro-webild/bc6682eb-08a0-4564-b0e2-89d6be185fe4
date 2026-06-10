@@ -85,10 +85,10 @@ export default function LandingPage() {
         },
       ]}
       buttonAnimation="opacity"
-      videoSrc="http://img.b2bpic.net/free-photo/bottom-half-view-berry-cake-white-oval-plate-red-shawl-grey-surface_140725-102508.jpg"
+      videoSrc="http://img.b2bpic.net/free-photo/bottom-half-view-berry-cake-white-oval-plate-red-shawl-grey-surface_140725-102508.jpg?_wi=1"
       videoAriaLabel="Cinematic video of Crêpella desserts and coffee"
       mediaAnimation="blur-reveal"
-      imageSrc="http://img.b2bpic.net/free-photo/bottom-half-view-berry-cake-white-oval-plate-red-shawl-grey-surface_140725-102508.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/bottom-half-view-berry-cake-white-oval-plate-red-shawl-grey-surface_140725-102508.jpg?_wi=2"
       imageAlt="slow motion dessert preparation cinematic"
     />
   </div>
